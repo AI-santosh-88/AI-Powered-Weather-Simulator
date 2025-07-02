@@ -1,8 +1,10 @@
 📌 Project Title:
+
 AI‑Powered Weather Simulator
 
 
 🎯 Business Use Case:
+
 Provide a lightweight, engaging web app that delivers real-time—or realistically simulated—weather reports for any city. This can be used to:
 * Demonstrate AI integration in web apps for educational or demo purposes.
 * Prototype personalized weather experiences in travel, tourism, or education.
@@ -10,6 +12,7 @@ Provide a lightweight, engaging web app that delivers real-time—or realistical
   
 
 📝 Description:
+
 The AI Weather Simulator is a Streamlit-powered web application that accepts a city name as input and generates a simulated weather report using the OpenAI API (GPT‑4 or GPT‑3.5‑turbo). Instead of relying on actual meteorological data, it uses creative AI-generated content to produce realistic-sounding forecasts, complete with temperature, conditions, and friendly commentary. The app features a weather-themed background and a simple, user-friendly interface.
 
 
@@ -40,6 +43,7 @@ These are the key functional areas and responsibilities within the project:
   
 
 📚 Libraries & Tools:
+
 1.Streamlit – Front-end web app framework for interactive Python apps.
 2.OpenAI Python SDK (openai) – For accessing GPT‑4 or GPT‑3.5‑turbo.
 3.Pexels-sourced background image – Enhances visual appeal.
@@ -49,6 +53,7 @@ These are the key functional areas and responsibilities within the project:
   
 
 🧾 Project Summary:
+
 The “AI‑Powered Weather Simulator” is an engaging demo tool pairing Streamlit with the OpenAI API to generate creative, realistic-sounding weather reports for any user-entered city. Perfect for educational demonstrations, portfolio showcases, or rapid prototyping, the app emphasizes prompt engineering, simple yet effective UI design, and seamless third-party integration—all wrapped in a stylish web-based interface.
 
 
