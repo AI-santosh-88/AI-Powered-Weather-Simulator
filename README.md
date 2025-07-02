@@ -4,7 +4,7 @@ AI‑Powered Weather Simulator
 
 
 🎯 Business Use Case:
-# Provide a lightweight, engaging web app that delivers real-time—or realistically simulated—weather reports for any city. This can be used to:
+### Provide a lightweight, engaging web app that delivers real-time—or realistically simulated—weather reports for any city. This can be used to:
 * Demonstrate AI integration in web apps for educational or demo purposes.
 * Prototype personalized weather experiences in travel, tourism, or education.
 * Serve as a learning tool for developers to explore OpenAI + Streamlit integration.
@@ -16,7 +16,7 @@ The AI Weather Simulator is a Streamlit-powered web application that accepts a c
 
 
 ⚙️ Responsibilities (Project Components):
-# These are the key functional areas and responsibilities within the project:
+### These are the key functional areas and responsibilities within the project:
 
 1. UI/UX Development (Streamlit)
 * Design a clean, interactive interface with a weather-themed background.
