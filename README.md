@@ -45,8 +45,11 @@ These are the key functional areas and responsibilities within the project:
 📚 Libraries & Tools:
 
 1.Streamlit – Front-end web app framework for interactive Python apps.
+
 2.OpenAI Python SDK (openai) – For accessing GPT‑4 or GPT‑3.5‑turbo.
+
 3.Pexels-sourced background image – Enhances visual appeal.
+
 4.Optionally:
 * Python-dotenv – For environment variables if running locally.
 * Requests / Pydantic – For advanced API or data handling (if extended).
